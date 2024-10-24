@@ -1,4 +1,5 @@
 # LEGO Evolution Dashboard
+![Descrizione dell'immagine](https://github.com/dlepre01/LEGO-Evolution-Dashboard/blob/main/Front%20of%20the%20box.png?raw=true)
 
 ## Overview
 This project aims to provide an interactive dashboard that analyzes and visualizes the evolution of LEGO sets over the years. The dashboard is designed to offer a broad overview, which can be customized to focus on specific themes chosen by the user.
