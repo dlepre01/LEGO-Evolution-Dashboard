@@ -1,5 +1,5 @@
 # LEGO Evolution Dashboard
-![Descrizione dell'immagine](e)
+
 <img src="https://github.com/dlepre01/LEGO-Evolution-Dashboard/blob/main/Front%20of%20the%20box.png?raw=tru" width="500"/>
 
 ## Overview
