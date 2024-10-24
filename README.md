@@ -1,7 +1,7 @@
 # LEGO Evolution Dashboard
 
 <img src="https://github.com/dlepre01/LEGO-Evolution-Dashboard/blob/main/Front%20of%20the%20box.png?raw=tru" width="500"/>
-
+<small>You can explore the interactive LEGO Evolution dashboard on Tableau Public by clicking [here](https://public.tableau.com/views/Lego2_17045560659980/Frontofthebox?:language=it-IT&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).</small>
 ## Overview
 This project aims to provide an interactive dashboard that analyzes and visualizes the evolution of LEGO sets over the years. The dashboard is designed to offer a broad overview, which can be customized to focus on specific themes chosen by the user.
 
