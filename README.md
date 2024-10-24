@@ -20,4 +20,8 @@ All data comes from verified fan websites, including the well-known Rebrickable,
 ## Tools and Techniques
 - **Tableau**: Tableau has been used extensively for data aggregation, cleaning, and visualization. The tool allowed us to integrate multiple datasets, clean and transform the data, and build an interactive dashboard that effectively communicates the trends and patterns in LEGO's evolution.
 
+## Tableau Dashboard
+
+You can explore the interactive LEGO Evolution dashboard on Tableau Public by clicking [here](https://public.tableau.com/views/Lego2_17045560659980/Frontofthebox?:language=it-IT&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+
 
