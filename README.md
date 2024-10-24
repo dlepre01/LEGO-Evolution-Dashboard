@@ -3,6 +3,9 @@
 ## Overview
 This project aims to provide an interactive dashboard that analyzes and visualizes the evolution of LEGO sets over the years. The dashboard is designed to offer a broad overview, which can be customized to focus on specific themes chosen by the user.
 
+## Goal
+The goal of this project is to give LEGO enthusiasts and researchers a unique way to explore how different aspects of LEGO sets, such as themes and brick complexity, have changed over time. The dashboard offers an intuitive, visual exploration of LEGO's rich history.
+
 ## Key Elements
 The analysis includes the following aspects:
 - **Colors**: Trends in color usage across different sets and themes.
@@ -17,5 +20,4 @@ All data comes from verified fan websites, including the well-known Rebrickable,
 ## Tools and Techniques
 - **Tableau**: Tableau has been used extensively for data aggregation, cleaning, and visualization. The tool allowed us to integrate multiple datasets, clean and transform the data, and build an interactive dashboard that effectively communicates the trends and patterns in LEGO's evolution.
 
-## Goal
-The goal of this project is to give LEGO enthusiasts and researchers a unique way to explore how different aspects of LEGO sets, such as themes and brick complexity, have changed over time. The dashboard offers an intuitive, visual exploration of LEGO's rich history.
+
